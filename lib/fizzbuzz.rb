@@ -9,3 +9,5 @@ def fizzbuzz(number)
     number
   end
 end
+
+puts "hello"
